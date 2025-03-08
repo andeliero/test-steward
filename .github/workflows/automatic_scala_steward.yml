@@ -2,7 +2,7 @@ name: Scala Steward
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '99 * * * *'
 
 permissions:
   contents: write
